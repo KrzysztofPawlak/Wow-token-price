@@ -1,0 +1,5 @@
+http://www.java-samples.com/showtutorial.php?tutorialid=210
+uruchomic cmd + ctrl + shift + enter (tryb admina)
+bedac w katalogu lib:
+	keytool -import -alias myprivateroot -file c:\root.cer -keystore ..\lib\security\cacerts -storepass changeit
+	yes
