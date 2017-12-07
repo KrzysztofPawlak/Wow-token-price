@@ -1,5 +1,6 @@
 # Wow Token Price (World of Warcraft)
 ### simple program to check actual token price from this page: https://wowtoken.info/
+### https://www.youtube.com/watch?v=rPR0AqDk1P0
 ### after use, you never miss low price
 ### program can say current price aloud, or you can set beep
 
